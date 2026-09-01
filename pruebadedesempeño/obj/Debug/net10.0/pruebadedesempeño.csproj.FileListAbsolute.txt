@@ -1,0 +1,14 @@
+/home/cohorte5/pruebadedesempeño/bin/Debug/net10.0/pruebadedesempeño
+/home/cohorte5/pruebadedesempeño/bin/Debug/net10.0/pruebadedesempeño.deps.json
+/home/cohorte5/pruebadedesempeño/bin/Debug/net10.0/pruebadedesempeño.runtimeconfig.json
+/home/cohorte5/pruebadedesempeño/bin/Debug/net10.0/pruebadedesempeño.dll
+/home/cohorte5/pruebadedesempeño/bin/Debug/net10.0/pruebadedesempeño.pdb
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.AssemblyInfoInputs.cache
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.AssemblyInfo.cs
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.csproj.CoreCompileInputs.cache
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.dll
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/refint/pruebadedesempeño.dll
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.pdb
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/pruebadedesempeño.genruntimeconfig.cache
+/home/cohorte5/pruebadedesempeño/obj/Debug/net10.0/ref/pruebadedesempeño.dll
